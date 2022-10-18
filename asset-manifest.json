@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chart-assignment/static/css/main.073c9b0a.css",
+    "main.js": "/chart-assignment/static/js/main.90bbb0c5.js",
+    "static/js/787.52832860.chunk.js": "/chart-assignment/static/js/787.52832860.chunk.js",
+    "static/media/logo.svg": "/chart-assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chart-assignment/index.html",
+    "main.073c9b0a.css.map": "/chart-assignment/static/css/main.073c9b0a.css.map",
+    "main.90bbb0c5.js.map": "/chart-assignment/static/js/main.90bbb0c5.js.map",
+    "787.52832860.chunk.js.map": "/chart-assignment/static/js/787.52832860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.90bbb0c5.js"
+  ]
+}
